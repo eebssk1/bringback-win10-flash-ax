@@ -1,0 +1,432 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\.mfp]
+@="MacromediaFlashPaper.MacromediaFlashPaper"
+"Content Type"="application/x-shockwave-flash"
+
+[HKEY_CLASSES_ROOT\.sol]
+"Content Type"="text/plain"
+
+[HKEY_CLASSES_ROOT\.sor]
+"Content Type"="text/plain"
+
+[HKEY_CLASSES_ROOT\.spl]
+@="ShockwaveFlash.ShockwaveFlash"
+"Content Type"="application/futuresplash"
+
+[HKEY_CLASSES_ROOT\.swf]
+@="ShockwaveFlash.ShockwaveFlash"
+"Content Type"="application/x-shockwave-flash"
+
+[HKEY_CLASSES_ROOT\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\Control]
+
+[HKEY_CLASSES_ROOT\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\EnableFullPage\.mfp]
+
+[HKEY_CLASSES_ROOT\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\EnableFullPage\.spl]
+
+[HKEY_CLASSES_ROOT\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\EnableFullPage\.swf]
+
+[HKEY_CLASSES_ROOT\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\Implemented Categories\{31CAF6E4-D6AA-4090-A050-A5AC8972E9EF}]
+
+[HKEY_CLASSES_ROOT\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\Implemented Categories\{59FB2056-D625-48D0-A944-1A85B5AB2640}]
+
+[HKEY_CLASSES_ROOT\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\Implemented Categories\{7DD95801-9882-11CF-9FA9-00AA006C42C4}]
+
+[HKEY_CLASSES_ROOT\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\Implemented Categories\{7DD95802-9882-11CF-9FA9-00AA006C42C4}]
+
+[HKEY_CLASSES_ROOT\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\InprocServer32]
+@=hex(2):43,00,3a,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,77,00,73,00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,4d,00,61,00,63,00,72,00,6f,00,6d,00,65,00,64,00,5c,00,46,00,6c,00,61,00,73,00,68,00,5c,00,66,00,6c,00,61,00,73,00,68,00,2e,00,6f,00,63,00,78,00
+"ThreadingModel"="Apartment"
+
+[HKEY_CLASSES_ROOT\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\MiscStatus]
+@="0"
+
+[HKEY_CLASSES_ROOT\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\MiscStatus\1]
+@="131473"
+
+[HKEY_CLASSES_ROOT\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\ProgID]
+@="ShockwaveFlash.ShockwaveFlash.32"
+
+[HKEY_CLASSES_ROOT\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\Programmable]
+
+[HKEY_CLASSES_ROOT\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\ToolboxBitmap32]
+@="C:\Windows\System32\Macromed\Flash\flash.ocx,1"
+
+[HKEY_CLASSES_ROOT\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\TypeLib]
+@="{D27CDB6B-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\Version]
+@="1.0"
+
+[HKEY_CLASSES_ROOT\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\VersionIndependentProgID]
+@="ShockwaveFlash.ShockwaveFlash"
+
+[HKEY_CLASSES_ROOT\CLSID\{D27CDB70-AE6D-11cf-96B8-444553540000}]
+@="Macromedia Flash Factory Object"
+
+[HKEY_CLASSES_ROOT\CLSID\{D27CDB70-AE6D-11cf-96B8-444553540000}\Control]
+
+[HKEY_CLASSES_ROOT\CLSID\{D27CDB70-AE6D-11cf-96B8-444553540000}\InprocServer32]
+@=hex(2):43,00,3a,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,77,00,73,00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,4d,00,61,00,63,00,72,00,6f,00,6d,00,65,00,64,00,5c,00,46,00,6c,00,61,00,73,00,68,00,5c,00,66,00,6c,00,61,00,73,00,68,00,2e,00,6f,00,63,00,78,00
+"ThreadingModel"="Apartment"
+
+[HKEY_CLASSES_ROOT\CLSID\{D27CDB70-AE6D-11cf-96B8-444553540000}\ProgID]
+@="FlashFactory.FlashFactory.1"
+
+[HKEY_CLASSES_ROOT\CLSID\{D27CDB70-AE6D-11cf-96B8-444553540000}\Programmable]
+
+[HKEY_CLASSES_ROOT\CLSID\{D27CDB70-AE6D-11cf-96B8-444553540000}\ToolboxBitmap32]
+@="C:\Windows\System32\Macromed\Flash\flash.ocx,1"
+
+[HKEY_CLASSES_ROOT\CLSID\{D27CDB70-AE6D-11cf-96B8-444553540000}\TypeLib]
+@="{D27CDB6B-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\CLSID\{D27CDB70-AE6D-11cf-96B8-444553540000}\Version]
+@="1.0"
+
+[HKEY_CLASSES_ROOT\CLSID\{D27CDB70-AE6D-11cf-96B8-444553540000}\VersionIndependentProgID]
+@="FlashFactory.FlashFactory"
+
+[HKEY_CLASSES_ROOT\FlashFactory.FlashFactory]
+@="Macromedia Flash Factory Object"
+
+[HKEY_CLASSES_ROOT\FlashFactory.FlashFactory\CLSID]
+@="{D27CDB70-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\FlashFactory.FlashFactory\CurVer]
+@="FlashFactory.FlashFactory.1"
+
+[HKEY_CLASSES_ROOT\FlashFactory.FlashFactory.1\CLSID]
+@="{D27CDB70-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\FlashFactory.FlashFactory.1\CurVer]
+@="FlashFactory.FlashFactory.1"
+
+[HKEY_CLASSES_ROOT\MacromediaFlashPaper.MacromediaFlashPaper]
+@="Macromedia Flash Paper"
+
+[HKEY_CLASSES_ROOT\MacromediaFlashPaper.MacromediaFlashPaper\CLSID]
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\MIME\Database\Content Type\application/futuresplash]
+"Extension"=".spl"
+"CLSID"="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\MIME\Database\Content Type\application/x-shockwave-flash]
+"Extension"=".swf"
+"CLSID"="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash\CLSID]
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash\CurVer]
+@="ShockwaveFlash.ShockwaveFlash.32"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.1]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.1\CLSID]
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.2]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash\CLSID.2]
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.3]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.3\CLSID]
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.4]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.4\CLSID]
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.5]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.5\CLSID]
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.6]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.6\CLSID]
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.7]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.7\CLSID]
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.8]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.8\CLSID]
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.9]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.9\CLSID]
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.10]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.10\CLSID]
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.11]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.11\CLSID]
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.12]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.12\CLSID]
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.13]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.13\CLSID]
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.14]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.14\CLSID]
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.15]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.15\CLSID]
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.16]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.16\CLSID]
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.17]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.17\CLSID]
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.18]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.18\CLSID]
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.19]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.19\CLSID]
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.20]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.20\CLSID]
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.21]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.21\CLSID]
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.22]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.22\CLSID]
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.23]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.23\CLSID]
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.24]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.24\CLSID]
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.25]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.25\CLSID]
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.26]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.26\CLSID]
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.27]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.27\CLSID]
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.28]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.28\CLSID]
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.29]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.29\CLSID]
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.30]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.30\CLSID]
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.31]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.31\CLSID]
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.32]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\ShockwaveFlash.ShockwaveFlash.32\CLSID]
+@="{D27CDB6E-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_LOCAL_MACHINE\Software\Macromedia\FlashPlayer\SafeVersions]
+"6.0"=dword:ffffffff
+"7.0"=dword:ffffffff
+"8.0"=dword:ffffffff
+"9.0"=dword:ffffffff
+"10.0"=dword:ffffffff
+"11.0"=dword:ffffffff
+"12.0"=dword:ffffffff
+"13.0"=dword:ffffffff
+"14.0"=dword:ffffffff
+"15.0"=dword:ffffffff
+"16.0"=dword:ffffffff
+"17.0"=dword:ffffffff
+"18.0"=dword:ffffffff
+"19.0"=dword:ffffffff
+"20.0"=dword:ffffffff
+"21.0"=dword:ffffffff
+"22.0"=dword:ffffffff
+"23.0"=dword:ffffffff
+"24.0"=dword:ffffffff
+"25.0"=dword:ffffffff
+"26.0"=dword:ffffffff
+"27.0"=dword:ffffffff
+"28.0"=dword:ffffffff
+"29.0"=dword:ffffffff
+"30.0"=dword:ffffffff
+"31.0"=dword:ffffffff
+"32.0"=dword:ffffffff
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\ActiveX Compatibility\{D27CDB70-AE6D-11cf-96B8-444553540000}]
+"Compatibility Flags"=dword:00010000
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\NavigatorPluginsList\Shockwave Flash]
+"application/futuresplash"=""
+"application/x-shockwave-flash"=""
+
+[HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}]
+@="Shockwave Flash Object"
+
+[HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\Control]
+
+[HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\EnableFullPage\.mfp]
+
+[HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\EnableFullPage\.spl]
+
+[HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\EnableFullPage\.swf]
+
+[HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\Implemented Categories\{31CAF6E4-D6AA-4090-A050-A5AC8972E9EF}]
+
+[HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\Implemented Categories\{59FB2056-D625-48D0-A944-1A85B5AB2640}]
+
+[HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\Implemented Categories\{7DD95801-9882-11CF-9FA9-00AA006C42C4}]
+
+[HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\Implemented Categories\{7DD95802-9882-11CF-9FA9-00AA006C42C4}]
+
+[HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\InprocServer32]
+@=hex(2):43,00,3a,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,77,00,73,00,5c,00,53,00,79,00,73,00,57,00,4f,00,57,00,36,00,34,00,5c,00,4d,00,61,00,63,00,72,00,6f,00,6d,00,65,00,64,00,5c,00,46,00,6c,00,61,00,73,00,68,00,5c,00,66,00,6c,00,61,00,73,00,68,00,2e,00,6f,00,63,00,78,00
+"ThreadingModel"="Apartment"
+
+[HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\MiscStatus]
+@="0"
+
+[HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\MiscStatus\1]
+@="131473"
+
+[HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\ProgID]
+@="ShockwaveFlash.ShockwaveFlash.32"
+
+[HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\Programmable]
+
+[HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\ToolboxBitmap32]
+@="C:\Windows\System32\Macromed\Flash\flash.ocx,1"
+
+[HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\TypeLib]
+@="{D27CDB6B-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\Version]
+@="1.0"
+
+[HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{D27CDB6E-AE6D-11cf-96B8-444553540000}\VersionIndependentProgID]
+@="ShockwaveFlash.ShockwaveFlash"
+
+[HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{D27CDB70-AE6D-11cf-96B8-444553540000}]
+@="Macromedia Flash Factory Object"
+
+[HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{D27CDB70-AE6D-11cf-96B8-444553540000}\Control]
+
+[HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{D27CDB70-AE6D-11cf-96B8-444553540000}\InprocServer32]
+@=hex(2):43,00,3a,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,77,00,73,00,5c,00,53,00,79,00,73,00,57,00,4f,00,57,00,36,00,34,00,5c,00,4d,00,61,00,63,00,72,00,6f,00,6d,00,65,00,64,00,5c,00,46,00,6c,00,61,00,73,00,68,00,5c,00,66,00,6c,00,61,00,73,00,68,00,2e,00,6f,00,63,00,78,00
+"ThreadingModel"="Apartment"
+
+[HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{D27CDB70-AE6D-11cf-96B8-444553540000}\ProgID]
+@="FlashFactory.FlashFactory.1"
+
+[HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{D27CDB70-AE6D-11cf-96B8-444553540000}\Programmable]
+
+[HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{D27CDB70-AE6D-11cf-96B8-444553540000}\ToolboxBitmap32]
+@="C:\Windows\System32\Macromed\Flash\flash.ocx,1"
+
+[HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{D27CDB70-AE6D-11cf-96B8-444553540000}\TypeLib]
+@="{D27CDB6B-AE6D-11cf-96B8-444553540000}"
+
+[HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{D27CDB70-AE6D-11cf-96B8-444553540000}\Version]
+@="1.0"
+
+[HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{D27CDB70-AE6D-11cf-96B8-444553540000}\VersionIndependentProgID]
+@="FlashFactory.FlashFactory"
+
+
+
