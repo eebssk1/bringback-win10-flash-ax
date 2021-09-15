@@ -10,3 +10,8 @@ Only works for x64 Windows 10!!
 The files is already patched to remove the time bomb.
 
 Note: Unlike other versions of Flash with still updated by some awful chinese companies, the MS version of flash will never ever get any updates, so use it with your own risks.
+
+# Note
+There's a project that provided the latest flash from china without spyware.
+https://github.com/CleanFlash/installer
+Maybe you should use this.
