@@ -13,5 +13,8 @@ Note: Unlike other versions of Flash with still updated by some awful chinese co
 
 # Note
 There's a project that provided the latest flash from china without spyware.
-https://github.com/CleanFlash/installer
+[D.M.C.A.d] https://github.com/CleanFlash/installer
+find it here
+https://archive.org/search.php?query=CleanFlash
+https://www.reddit.com/r/DataHoarder/comments/q6vuc0/comment/hhv8y4f/?utm_source=share&utm_medium=web2x&context=3
 Maybe you should use this.
